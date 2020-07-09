@@ -10,3 +10,15 @@
   clear: both;
 }
 
+h2 {
+  color: red;
+}
+
+h3 {
+  color: green;
+}
+
+p {
+  font-weight: 600;
+}
+

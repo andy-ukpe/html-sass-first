@@ -9,3 +9,16 @@
  display: table;
  clear: both;
 }
+$primary_color: red;
+$secodary_color: green;
+$primary_weigth: 600;
+h2{
+  color: $primary_color;
+}
+h3{
+  color: $secodary_color;
+}
+
+p{
+  font-weight: $primary_weigth;
+}
